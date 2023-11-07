@@ -79,11 +79,15 @@ Later on, I made another query through MongoDB to check which companies in Tokyo
 Finally, I also located the successful tech companies from the cleaned dataframe into the same map and I added circles (7) using these companies' coordinates to check which one had more places inside its ratio. These are the images for each area:
 
 ![image1](https://github.com/foscanit/project-3/blob/main/images/grey.png)
+
 ![image2](https://github.com/foscanit/project-3/blob/main/images/blue.png)
+
 ![image3](https://github.com/foscanit/project-3/blob/main/images/green.png)
+
 ![image4](https://github.com/foscanit/project-3/blob/main/images/purple.png)
 
-As you can see, the last image shows three circles where most of the sites are located. And when I looked closely I realized the orange circle was the one 
+
+As you can see, the last image shows three circles where most of the sites are located. 
 
 ![image5](https://github.com/foscanit/project-3/blob/main/images/three%20circles.png)
 
