@@ -251,7 +251,7 @@ def circle_map0():
 
     return m
 
-def circle_map5():
+def circle_map6():
     
     # Create a base map centered around Tokyo, Japan
     m = folium.Map(location=[35.656467,139.7318437], zoom_start=15)
@@ -372,5 +372,23 @@ def circle_map5():
     # Create a circle with the specified center and radius
     folium.Circle(location=circle_center, radius=circle_radius, color='red', fill=True, fill_color='red', fill_opacity=0.2).add_to(m)
     folium.Circle(location=circle_center, radius=circle_radius_2, color='blue', fill=True, fill_color='red', fill_opacity=0.2).add_to(m)
+    
+     # Create a legend
+    legend_html = """
+    <div style="position: fixed; top: 10px; left: 10px; z-index: 1000; background-color: white; padding: 10px; border: 2px solid black;">
+        <div><i class="fa fa-plane" style="color: pink;"></i> Narita Airport</div>
+        <div><i class="fa fa-plane" style="color: pink;"></i> Haneda Airport</div>
+        <div><i class="fa fa-gamepad" style="color: purple;"></i> Videogame company</div>
+        <div><i class="fa fa-cloud-upload" style="color: red;"></i> Tech Startup</div>
+        <div><i class="fa fa-paw" style="color: blue;"></i> Dog Place</div>
+        <div><i class="fa fa-child" style="color: blue;"></i> Elementary School</div>
+        <div><i class="fa fa-microphone" style="color: black;"></i> Karaoke</div>
+        <div><i class="fa fa-coffee" style="color: red;"></i> Starbucks</div>
+        <div><i class="fa fa-train" style="color: orange;"></i> Metro Station</div>
+        <div><i class="fa fa-leaf" style="color: green;"></i> Vegan Place</div>
+    </div>
+    """
+    m.get_root().html.add_child(folium.Element(legend_html))
+    
 
     return m
