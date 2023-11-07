@@ -94,7 +94,7 @@ As you can see, the last image shows three circles where most of the sites are l
 
 # In Conclusion
 
-After taking a close look to the previous images, I realized that the best coordinates would be 35.656467,139.734424, when merging the three circles above (yellow, red and orange) and using the Pet House Hara as a central point from which all the important sites are close within a radius of 900 metres: a videgame company, a tech startup, two vegan places, two starbucks, two metro stations, three karaokes and two elementary schools.
+After analyzing the seven areas, I realized that the best coordinates would be 35.656467, 139.734424: when merging the three circles above (yellow, red and orange) and using the Pet House Hara as a central point from which all the important sites are close within a radius of 900 metres: a videgame company, a tech startup, two vegan places, two starbucks, two metro stations, three karaokes and two elementary schools.
 
 See the image with the legend:
 
