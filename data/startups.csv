@@ -1,0 +1,24 @@
+,name,category_code,description,employees,tag,address1,address2,zip_code,city,country_code,lat,lon
+8,Nexway,ecommerce,Degica / Boonty Japan,160.0,"esd, e-commerce, software, download, video-game, casual-gaming, e-marketing, outsourcing",TK Kichojijo Bldg 6F,"2-5-10 Kichijoji Honcho, Musashino-shi",180-0004,Tokyo,JPN,,
+16,SolarEdge,cleantech,Local Japan Office,230.0,"solar-power-harvesting, photovoltaic, power-optimizer, solar-inverter, pv-inverter, pv-monitoring, solar-monitoring-software, pv-safety, pv-systems, microinverters, solar-energy, solar, renewable-energy, cleantech, clean-tech","B-9 Ariake Frontier Building, 3-7-26 Ariake, Koto-Ku",,135-0063,Tokyo,JPN,,
+21,Chelsio Communications,network_hosting,,170.0,,SHIMA Akasaka Bldg,Minato-ku,107-0052,Tokyo,JPN,35.669185,139.7345479
+26,OpenX,advertising,Tokyo,305.0,"ad-server, ad-serving, ad-exchange, yield-optimization, content-valuation",4-12-25 Minami-Azabu,Minato-ku,1060047,Tokyo,JPN,,
+32,ReachLocal,advertising,Asia Headquarters,1700.0,"internet-marketing, online-advertising, web-presence, customer-retention, social-media, seo, sem","Ark Yagi Hills 10F, 1-8-7",Roppongim Minato-ku,106-0032,Tokyo,JPN,,
+36,Proofpoint,software,,,"email-security, email-archiving",BUREX Kojimachi Kojimachi 3-5-2,Chiyoda-ku,102-0083,Tokyo,JPN,,
+70,Google,search,Google Japan Headquarters,28000.0,"search, gmail, blogger, find, information, youtube, google",6F Cerulean Tower,26-1 Sakuragaoka-cho,150-8512,Tokyo,JPN,35.6575912,139.6990552
+105,UQ Communications,mobile,Headquarters,222.0,"mobile-broadband, wimax, japan, intel-capital, mobile, wireless",Shinagawa East One Tower,"2-16-1 Konan,  Minato-ku",108-0075,Tokyo,JPN,35.6277961,139.74074483670995
+106,Rakuten,web,Headquarter,10000.0,"ecommerce, japan, global, internet-services, point-program, points, travel","Rakuten Tower, Shinagawa Seaside Rakuten Tower",", 4-12-3 Higashishinagawa, Shinagawa-ku",140-0002,Tokyo,JPN,,
+107,eriQoo,search,Tokyo Office,96.0,search-engines,Roppongi 4-4-3-33,,106-0032,Tokyo,JPN,35.6615123,139.7284182
+112,Corvil,other,Tokyo,100.0,,Yurakucho ITOCiA 2-7-1,Yurakucho Chiyoda-ku,100-0006,Tokyo,JPN,35.6735785,139.7642478
+125,hybris,enterprise,Japan Office,,,Holland Hills Mori Tower RoP 502,"5-11-1 Toranomon, Minato-ku",,Tokyo,JPN,,
+135,Basho Technologies,software,Basho Japan,110.0,"database, datastore, open-source, nosql, application-scaling",NK7 Building 3rd Floor 2-9,Yotsuya Shinjuku-ku,160-0004,Tokyo,JPN,,
+137,Ecrio,mobile,Japanese Office,,,"DF building 7F, 2-2-8, Minami-aoyama",,107-0062,Tokyo,JPN,,
+143,Nexsan,hardware,Japan,126.0,"green-storage, energy-efficient-storage, disk-storage, sata, sas, maid, fixed-content-storage, data-archiving","4/F, 1-11-28 Akasaka Minato-Ku",,107-0052,Tokyo,JPN,,
+144,Six Apart,enterprise,Global HQ,50.0,"blogging, cms",5-2-39 Akasaka,"7th Floor, Entsuji Gadelius Bldg",107-0052,Tokyo,JPN,35.6731653,139.7383091
+149,InMobi,mobile,Tokyo,900.0,"mobile, ads, mobile-ad-network, ad-network, mobile-advertising",Fuji Building 7F 701-B,"Chiyoda-ku, Marunouchi",100-0005,Tokyo,JPN,,
+160,Icera,mobile,Icera Tokyo,260.0,"wireless-communication, cellular-broadbands, soft-modem-chipsets, smartphone-platform","Level 28, Shinagawa Intercity Tower A 2-15-1 Konan, Minato-ku",,108-6028,Tokyo,JPN,,
+162,Gengo,web,Tokyo,38.0,"translation-services, english, japanese, crowdsourcing, human-translation","3-27-11, Yushin bldg 8F, Shibuya,",Shibuya-ku,151-0051,Tokyo,JPN,,
+164,Tonchidot,mobile,HQ,20.0,"techcrunch50, tc50, iphone, mobile, ar, augmented-reality, virtual-reality, cgm, ugc, apple, sekaicamera, tokyo, japan","2-5-12, Shinjuku",Shinjuku-ku,160-0022,Tokyo,JPN,35.6937632,139.7036319
+165,Tonchidot,mobile,HQ,20.0,"techcrunch50, tc50, iphone, mobile, ar, augmented-reality, virtual-reality, cgm, ugc, apple, sekaicamera, tokyo, japan","2-5-12, Shinjuku",Shinjuku-ku,160-0022,Tokyo,JPN,35.6937632,139.7036319
+172,Opera Software,software,Tokyo,,,ORIX Meguro bldg 10F,"1-24-12 Meguro, Meguro-ku",153-0063,Tokyo,JPN,,
+180,Brightcove,enterprise,Japan Headquarters,220.0,"brightcove, online-video-platform, video, tv-everywhere, video-monetization, analytics, e-commerce-video, enterprise-video, video-for-marketing",Ebisu LITE Bldg. 2F,"3-1-19 Ebisuminami, Shibuya-ku",150-0022,Tokyo,JPN,,

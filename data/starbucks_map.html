@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_103ed76db03ada15dcb6681672411f9f {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_103ed76db03ada15dcb6681672411f9f" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_103ed76db03ada15dcb6681672411f9f = L.map(
+                "map_103ed76db03ada15dcb6681672411f9f",
+                {
+                    center: [35.682839, 139.759455],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 13,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_8aad2694301ab34f9c0d1df404442701 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca target=\"_blank\" href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca target=\"_blank\" href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_103ed76db03ada15dcb6681672411f9f);
+        
+    
+            var marker_f94e398c418ec90dc8a6fe22eea33b51 = L.marker(
+                [35.628851, 139.656619],
+                {}
+            ).addTo(map_103ed76db03ada15dcb6681672411f9f);
+        
+    
+            var icon_21a66cbf4a47e5f1cad3febe7bdb1e43 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "coffee", "iconColor": "black", "markerColor": "green", "prefix": "fa"}
+            );
+            marker_e6ef99c1135fd64a09ae30c11098d0bb.setIcon(icon_21a66cbf4a47e5f1cad3febe7bdb1e43);
+        
+    
+        var popup_9b22afb78a5db26aabaa0c775dd6ce80 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_88fddbdd8e62e466b9fb227aca60dc62 = $(`<div id="html_88fddbdd8e62e466b9fb227aca60dc62" style="width: 100.0%; height: 100.0%;">Starbucks</div>`)[0];
+                popup_9b22afb78a5db26aabaa0c775dd6ce80.setContent(html_88fddbdd8e62e466b9fb227aca60dc62);
+            
+        
+
+        marker_f94e398c418ec90dc8a6fe22eea33b51.bindPopup(popup_9b22afb78a5db26aabaa0c775dd6ce80)
+        ;
+
+        
+    
+    
+            var marker_34d32bc78973bd062e752bec8c83345b = L.marker(
+                [35.679778, 139.76483],
+                {}
+            ).addTo(map_103ed76db03ada15dcb6681672411f9f);
+        
+    
+        var popup_a7d855d82c2e3dc3d3f1f828bb3604be = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_6968788f08e74b45936cbbce421adcf2 = $(`<div id="html_6968788f08e74b45936cbbce421adcf2" style="width: 100.0%; height: 100.0%;">Starbucks (スターバックス)</div>`)[0];
+                popup_a7d855d82c2e3dc3d3f1f828bb3604be.setContent(html_6968788f08e74b45936cbbce421adcf2);
+            
+        
+
+        marker_34d32bc78973bd062e752bec8c83345b.bindPopup(popup_a7d855d82c2e3dc3d3f1f828bb3604be)
+        ;
+
+        
+    
+    
+            var marker_baa345ed68add92caa955d5f9bc12c18 = L.marker(
+                [35.687745, 139.764544],
+                {}
+            ).addTo(map_103ed76db03ada15dcb6681672411f9f);
+        
+    
+        var popup_78e719dfb4c5074ae5e08ce5ffd2ca7c = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_95b31e8053af47a65f7383222fead948 = $(`<div id="html_95b31e8053af47a65f7383222fead948" style="width: 100.0%; height: 100.0%;">Starbucks</div>`)[0];
+                popup_78e719dfb4c5074ae5e08ce5ffd2ca7c.setContent(html_95b31e8053af47a65f7383222fead948);
+            
+        
+
+        marker_baa345ed68add92caa955d5f9bc12c18.bindPopup(popup_78e719dfb4c5074ae5e08ce5ffd2ca7c)
+        ;
+
+        
+    
+    
+            var marker_c04d9a4923a072a79167e48d73f1fe1f = L.marker(
+                [35.690918, 139.757461],
+                {}
+            ).addTo(map_103ed76db03ada15dcb6681672411f9f);
+        
+    
+        var popup_4e61893a550a2c0c5a63790b5e972342 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_3edc7b4e910a83ad2e776e88e65639e7 = $(`<div id="html_3edc7b4e910a83ad2e776e88e65639e7" style="width: 100.0%; height: 100.0%;">Starbucks (スターバックス)</div>`)[0];
+                popup_4e61893a550a2c0c5a63790b5e972342.setContent(html_3edc7b4e910a83ad2e776e88e65639e7);
+            
+        
+
+        marker_c04d9a4923a072a79167e48d73f1fe1f.bindPopup(popup_4e61893a550a2c0c5a63790b5e972342)
+        ;
+
+        
+    
+    
+            var marker_e6ef99c1135fd64a09ae30c11098d0bb = L.marker(
+                [35.679944, 139.76358],
+                {}
+            ).addTo(map_103ed76db03ada15dcb6681672411f9f);
+        
+    
+        var popup_15d5557bdf4c2d5eb91d060517f73a59 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_c1538c0a924dfb949a8661109161f5a9 = $(`<div id="html_c1538c0a924dfb949a8661109161f5a9" style="width: 100.0%; height: 100.0%;">Starbucks (スターバックス)</div>`)[0];
+                popup_15d5557bdf4c2d5eb91d060517f73a59.setContent(html_c1538c0a924dfb949a8661109161f5a9);
+            
+        
+
+        marker_e6ef99c1135fd64a09ae30c11098d0bb.bindPopup(popup_15d5557bdf4c2d5eb91d060517f73a59)
+        ;
+
+        
+    
+</script>
+</html>

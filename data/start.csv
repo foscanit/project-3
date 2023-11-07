@@ -1,0 +1,8 @@
+Unnamed: 0,name,category_code,description,employees,tag,address1,address2,zip_code,city,country_code,lat,lon
+21,Chelsio Communications,network_hosting,,170.0,,SHIMA Akasaka Bldg,Minato-ku,107-0052,Tokyo,JPN,35.669185,139.7345479
+70,Google,search,Google Japan Headquarters,28000.0,"search, gmail, blogger, find, information, youtube, google",6F Cerulean Tower,26-1 Sakuragaoka-cho,150-8512,Tokyo,JPN,35.6575912,139.6990552
+105,UQ Communications,mobile,Headquarters,222.0,"mobile-broadband, wimax, japan, intel-capital, mobile, wireless",Shinagawa East One Tower,"2-16-1 Konan,  Minato-ku",108-0075,Tokyo,JPN,35.6277961,139.74074483670995
+107,eriQoo,search,Tokyo Office,96.0,search-engines,Roppongi 4-4-3-33,,106-0032,Tokyo,JPN,35.6615123,139.7284182
+112,Corvil,other,Tokyo,100.0,,Yurakucho ITOCiA 2-7-1,Yurakucho Chiyoda-ku,100-0006,Tokyo,JPN,35.6735785,139.7642478
+144,Six Apart,enterprise,Global HQ,50.0,"blogging, cms",5-2-39 Akasaka,"7th Floor, Entsuji Gadelius Bldg",107-0052,Tokyo,JPN,35.6731653,139.7383091
+164,Tonchidot,mobile,HQ,20.0,"techcrunch50, tc50, iphone, mobile, ar, augmented-reality, virtual-reality, cgm, ugc, apple, sekaicamera, tokyo, japan","2-5-12, Shinjuku",Shinjuku-ku,160-0022,Tokyo,JPN,35.6937632,139.7036319
