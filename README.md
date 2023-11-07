@@ -2,7 +2,7 @@
 
 # Overview
 
-I have created a new company in the gaiming industry. The aim of this project is to choose a city and coordinates to locate my hypothetical company through MongoDB, the database of companies and geoqueries. To choose the best location I took into account several conditions and requirements from my employees. 
+In this case scenario I have created a new company in the gaming industry. The aim of the project is to choose a city and coordinates to locate this company through MongoDB, the database of companies and geoqueries. In order to pick the best location I have taken into account several conditions and requirements from my employees. 
 <br>
 
 # Requirements/Libraries Used:
@@ -78,29 +78,28 @@ Later on, I made another query through MongoDB to check which companies in Tokyo
 
 Finally, I also located the successful tech companies from the cleaned dataframe into the same map and I added circles (7) using these companies' coordinates to check which one had more places inside its ratio. These are the images for each area:
 
-![image1](https://github.com/foscanit/Project-2/blob/main/images/novel_genres.png)
-![image1](https://github.com/foscanit/Project-2/blob/main/images/novel_genres.png)
-![image1](https://github.com/foscanit/Project-2/blob/main/images/novel_genres.png)
-![image1](https://github.com/foscanit/Project-2/blob/main/images/novel_genres.png)
+![image1](https://github.com/foscanit/project-3/blob/main/images/grey.png)
+![image2](https://github.com/foscanit/project-3/blob/main/images/blue.png)
+![image3](https://github.com/foscanit/project-3/blob/main/images/green.png)
+![image4](https://github.com/foscanit/project-3/blob/main/images/purple.png)
 
 As you can see, the last image shows three circles where most of the sites are located. And when I looked closely I realized the orange circle was the one 
 
-![image1](https://github.com/foscanit/Project-2/blob/main/images/novel_genres.png)
+![image5](https://github.com/foscanit/project-3/blob/main/images/three%20circles.png)
 
 
 # In Conclusion
 
-After taking a close look to the previous images, I realized that the best coordinates would be 35.656467,139.734424, when merging the three circles above (yellow, red and orange) using the Pet House Hara as a central point from which all the important sites are close within a radius of 900 metres: a videgame company, a tech startup, two vegan places, two starbucks, two metro stations, three karaokes and two elementary schools.
+After taking a close look to the previous images, I realized that the best coordinates would be 35.656467,139.734424, when merging the three circles above (yellow, red and orange) and using the Pet House Hara as a central point from which all the important sites are close within a radius of 900 metres: a videgame company, a tech startup, two vegan places, two starbucks, two metro stations, three karaokes and two elementary schools.
 
 See the image with the legend:
 
-![image1](https://github.com/foscanit/Project-2/blob/main/images/novel_genres.png)
+![image6](https://github.com/foscanit/project-3/blob/main/images/legend.png)
 
 
 # Next steps
 
-In order to uphold my decision in a even more accurate way, the ideal following steps would be to insert my data (all the csv files created) into MongoDB making a collection for each dataset and also creating 2dsphere indexes. After that, make more geoqueries to calculate the distances between all the sites and the tech companies. With the results of these geoqueries, we could sort the distances and analyze again which is the best spot in Tokyo for our company and check if it coincides with the previous choice. 
-
+In order to uphold my decision in an even more accurate way, the ideal following steps would be to insert my data (all the csv files created) into MongoDB making a collection for each dataset and also creating 2dsphere indexes. After that, make more geoqueries to calculate the distances between all the sites and the tech companies. With the results of these geoqueries, we could sort the distances and analyze again which is the best spot in Tokyo for our company and check if it coincides with the previous choice. 
 
 
 # Sources
